@@ -1,0 +1,62 @@
+.caixa-login {
+  background: #103;
+}
+
+.grupo {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.caixa-login {
+  width: 400px;
+  border: 2px solid #a8f;
+  background: #103;
+  margin: auto;
+  margin-top: 120px;
+  padding: 50px;
+  border-radius: 4px;
+}
+
+.titulo-login {
+  text-align: center;
+  color: #a8f;
+  font-size: 50px;
+  font-weight: 700;
+}
+
+label {
+  font-size: 30px;
+  color: #a8f;
+}
+
+input {
+  color: #a8f;
+  padding: 8px;
+  width: 100%;
+  border-radius: 4px;
+  border: 2px solid #e7e7e7;
+  outline: none;
+}
+
+#btn-entrar {
+  width: 100%;
+  margin-top: 10px;
+  background-color: #a8f;
+  border: none;
+  border-radius: 4px;
+  color: #e7e7e7;
+  font-weight: 600;
+}
+
+.esqueci-minha-senha {
+  text-align: right;
+  font-style: italic;
+  margin-top: 3px;
+}
+
+.esqueci-minha-senha a {
+  color: #a8f;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: 700;
+}

@@ -1,0 +1,14 @@
+button {
+  padding: 10px 20px;
+  background: white;
+  color: #a8f;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.navegacao {
+  display: flex;
+  padding: 20px;
+  align-items: center;
+  justify-content: center;
+}
